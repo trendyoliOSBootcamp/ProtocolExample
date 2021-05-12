@@ -1,0 +1,6 @@
+framework module Pods_ProtocolsDemoProject {
+  umbrella header "Pods-ProtocolsDemoProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
