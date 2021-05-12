@@ -1,0 +1,36 @@
+{
+    "addresses": [
+        {
+            "addressTitle": "Trendyol",
+            "addressOwnerName": "Trendyol",
+            "addressOwnerSurname": "",
+            "address": "Maslak Mahallesi Büyükdere Caddesi (Spine Plaza) No:243 İç Kapı No:19 Sarıyer/İstanbul",
+            "cityName": "İstanbul",
+            "districtName": "Sarıyer",
+        },
+        {
+            "addressTitle": "Trendyol 2",
+            "addressOwnerName": "Trendyol 2",
+            "addressOwnerSurname": "",
+            "address": "Maslak Mahallesi Büyükdere Caddesi (Spine Plaza) No:243 İç Kapı No:19 Sarıyer/İstanbul",
+            "cityName": "İstanbul",
+            "districtName": "Sarıyer",
+        },
+        {
+            "addressTitle": "Trendyol 3",
+            "addressOwnerName": "Trendyol 3",
+            "addressOwnerSurname": "",
+            "address": "Maslak Mahallesi Büyükdere Caddesi (Spine Plaza) No:243 İç Kapı No:19 Sarıyer/İstanbul",
+            "cityName": "İstanbul",
+            "districtName": "Sarıyer",
+        },
+        {
+            "addressTitle": "Trendyol 4",
+            "addressOwnerName": "Trendyol 4",
+            "addressOwnerSurname": "",
+            "address": "Maslak Mahallesi Büyükdere Caddesi (Spine Plaza) No:243 İç Kapı No:19 Sarıyer/İstanbul",
+            "cityName": "İstanbul",
+            "districtName": "Sarıyer",
+        }
+    ]
+}
